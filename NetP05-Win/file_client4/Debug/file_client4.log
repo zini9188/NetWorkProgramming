@@ -1,0 +1,11 @@
+﻿  file_client4.c
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_client4\file_client4.c(95,13): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_client4\file_client4.c(104,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_client4\file_client4.c(105,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_client4\file_client4.c(113,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_client4\file_client4.c(164,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_client4\file_client4.c(167,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_client4\file_client4.c(49,15): warning C4101: 'len_in' :참조되지 않은 지역 변수입니다.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_client4\file_client4.c(49,23): warning C4101: 'len_out' :참조되지 않은 지역 변수입니다.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_client4\file_client4.c(49,12): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  file_client4.vcxproj -> C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\Debug\file_client4.exe

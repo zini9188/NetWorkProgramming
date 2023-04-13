@@ -1,0 +1,7 @@
+﻿  game_client2.c
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client2\game_client2.c(212,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client2\game_client2.c(194,6): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client2\game_client2.c(193,8): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client2\game_client2.c(189,16): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client2\game_client2.c(239,8): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+  game_client2.vcxproj -> C:\Users\hojepark\Desktop\NetP10-Win-game\Debug\game_client2.exe

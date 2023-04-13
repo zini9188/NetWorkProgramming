@@ -1,0 +1,6 @@
+﻿  wtime_server.c
+C:\Users\Daddy\Downloads\NetP04-Win\wtime_server\wtime_server.c(52,48): warning C4244: '=': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Daddy\Downloads\NetP04-Win\wtime_server\wtime_server.c(78,62): warning C4244: '=': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Daddy\Downloads\NetP04-Win\wtime_server\wtime_server.c(90,41): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Daddy\Downloads\NetP04-Win\wtime_server\wtime_server.c(88,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  wtime_server.vcxproj -> C:\Users\Daddy\Downloads\NetP04-Win\x64\Debug\wtime_server.exe
