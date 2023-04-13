@@ -1,0 +1,5 @@
+﻿  file_server3.c
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_server3\file_server3.c(116,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_server3\file_server3.c(118,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\file_server3\file_server3.c(51,11): warning C4101: 'msg_size' :참조되지 않은 지역 변수입니다.
+  file_server3.vcxproj -> C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP05-Win\Debug\file_server3.exe

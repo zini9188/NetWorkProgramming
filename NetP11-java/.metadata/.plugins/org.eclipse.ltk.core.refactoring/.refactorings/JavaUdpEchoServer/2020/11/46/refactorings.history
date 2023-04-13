@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;udp_server&apos; to &apos;JavaUdpServer&apos;&#x0D;&#x0A;- Original project: &apos;UdpServer&apos;&#x0D;&#x0A;- Original element: &apos;udp_server&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaUdpServer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;udp_server&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{udp_server.java[udp_server" matchStrategy="1" name="JavaUdpServer" qualified="false" references="true" similarDeclarations="false" stamp="1604876529206" textual="false" version="1.0"/>
+</session>

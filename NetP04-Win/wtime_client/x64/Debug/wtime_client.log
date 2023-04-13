@@ -1,0 +1,5 @@
+﻿  wtime_client.c
+C:\Users\Daddy\Downloads\NetP04-Win\wtime_client\wtime_client.c(51,48): warning C4244: '=': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Daddy\Downloads\NetP04-Win\wtime_client\wtime_client.c(74,5): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Daddy\Downloads\NetP04-Win\wtime_client\wtime_client.c(41,11): warning C4101: 'haddr' :참조되지 않은 지역 변수입니다.
+  wtime_client.vcxproj -> C:\Users\Daddy\Downloads\NetP04-Win\x64\Debug\wtime_client.exe

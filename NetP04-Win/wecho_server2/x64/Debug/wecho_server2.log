@@ -1,0 +1,4 @@
+﻿  wecho_server2.c
+C:\Users\hoje park\Desktop\네트워크프로그래밍\강의자료\NetP04-Win\wecho_server2\wecho_server2.c(54,50): warning C4244: '=': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hoje park\Desktop\네트워크프로그래밍\강의자료\NetP04-Win\wecho_server2\wecho_server2.c(86,70): warning C4244: '=': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  wecho_server2.vcxproj -> C:\Users\hoje park\Desktop\네트워크프로그래밍\강의자료\NetP04-Win\x64\Debug\wecho_server2.exe

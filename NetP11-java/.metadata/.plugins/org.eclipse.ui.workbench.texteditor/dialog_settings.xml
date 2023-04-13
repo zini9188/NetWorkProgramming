@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="udp_socket"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="udp_socket"/>
+			<item value="port"/>
+			<item value="30000"/>
+			<item value="port_"/>
+			<item value="Recv"/>
+			<item value="Read"/>
+			<item value="300"/>
+			<item value="bis"/>
+			<item value="Bitmap"/>
+			<item value="ReadChatMsg"/>
+			<item value="ChatMsg"/>
+			<item value="AppendImage"/>
+			<item value="AppendImageBytes"/>
+			<item value="split"/>
+			<item value="socket = null"/>
+		</list>
+		<list key="replacehistory">
+			<item value="WriteChatMsg"/>
+			<item value="SendChatMsg"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="-336"/>
+		<item key="DIALOG_Y_ORIGIN" value="166"/>
+		<item key="DIALOG_WIDTH" value="288"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>

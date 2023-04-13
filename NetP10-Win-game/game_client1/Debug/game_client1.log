@@ -1,0 +1,14 @@
+﻿  game_client1.c
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(106,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(176,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(202,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(196,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(210,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(230,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(239,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(240,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(247,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(188,6): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(187,8): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_client1\game_client1.c(229,8): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+  game_client1.vcxproj -> C:\Users\hojepark\Desktop\NetP10-Win-game\Debug\game_client1.exe

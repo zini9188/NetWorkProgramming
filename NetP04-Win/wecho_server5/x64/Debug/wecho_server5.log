@@ -1,0 +1,7 @@
+﻿  wecho_server5.c
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP04-Win\wecho_server5\wecho_server5.c(59,50): warning C4244: '=': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP04-Win\wecho_server5\wecho_server5.c(91,70): warning C4244: '=': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP04-Win\wecho_server5\wecho_server5.c(164,12): warning C4022: 'memset': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP04-Win\wecho_server5\wecho_server5.c(164,31): warning C4047: '함수': 'size_t'의 간접 참조 수준이 'char [129]'과(와) 다릅니다.
+C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP04-Win\wecho_server5\wecho_server5.c(164,28): warning C4024: 'memset': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+  wecho_server5.vcxproj -> C:\Users\hojepark\Desktop\네트워크프로그래밍\과제\NetP04-Win\x64\Debug\wecho_server5.exe

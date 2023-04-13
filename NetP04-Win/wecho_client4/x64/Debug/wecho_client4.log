@@ -1,0 +1,7 @@
+﻿  wecho_client4.c
+C:\Users\hoje park\Desktop\네트워크프로그래밍\강의자료\NetP04-Win\wecho_client4\wecho_client4.c(53,42): warning C4244: '=': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hoje park\Desktop\네트워크프로그래밍\강의자료\NetP04-Win\wecho_client4\wecho_client4.c(81,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hoje park\Desktop\네트워크프로그래밍\강의자료\NetP04-Win\wecho_client4\wecho_client4.c(83,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hoje park\Desktop\네트워크프로그래밍\강의자료\NetP04-Win\wecho_client4\wecho_client4.c(100,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hoje park\Desktop\네트워크프로그래밍\강의자료\NetP04-Win\wecho_client4\wecho_client4.c(39,12): warning C4101: 'len_in' :참조되지 않은 지역 변수입니다.
+  wecho_client4.vcxproj -> C:\Users\hoje park\Desktop\네트워크프로그래밍\강의자료\NetP04-Win\x64\Debug\wecho_client4.exe

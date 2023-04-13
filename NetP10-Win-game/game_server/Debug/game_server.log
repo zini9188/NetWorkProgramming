@@ -1,0 +1,4 @@
+﻿  game_server.c
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_server\game_server.c(41,23): warning C4101: 'my_msg' :참조되지 않은 지역 변수입니다.
+C:\Users\hojepark\Desktop\NetP10-Win-game\game_server\game_server.c(43,12): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  game_server.vcxproj -> C:\Users\hojepark\Desktop\NetP10-Win-game\Debug\game_server.exe
